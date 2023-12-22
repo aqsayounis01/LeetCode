@@ -1,8 +1,7 @@
 #include<iostream>
-using namespace std;
 #include<vector>
-#include<algorithm>
-
+#include <algorithm>
+using namespace std;
 class Solution {
 public:
     vector<int> intersection(vector<int>& v1, vector<int>& v2) {

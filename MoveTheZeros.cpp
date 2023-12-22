@@ -37,6 +37,6 @@ int main()
         v.push_back(a);
     }
     
-    s.moveZeroes()
+    s.moveZeroes(v);
 
 }
